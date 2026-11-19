@@ -1,0 +1,3 @@
+# PyMuPDF is AGPL-3.0 (https://github.com/pymupdf/PyMuPDF); fonttools is MIT and optional (embedded fonts are subset to the glyphs used, ~7x smaller output)
+pymupdf==1.28.2
+fonttools==4.68.0
